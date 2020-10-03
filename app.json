@@ -9,7 +9,7 @@
         },
         "APASSWORD": {
             "description": "SS和BROOK以及GOST使用的密码",
-            "value": "password"
+            "value": "passwordei"
         },
         "TOREnable": {
             "description": "TOR开关，默认关闭，修改为true时候启用",
@@ -69,7 +69,7 @@
         },
         "AUUID": {
             "description": "V2RAY使用的UUID,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+            "value": "f55b78f8-ca95-4cfa-837c-037a0d1b5a25"
         },
         "V2RAYCONFIG": {
             "description": "自定义网络地址读取配置运行V2RAY，不熟悉V2RAY配置的请勿修改",
